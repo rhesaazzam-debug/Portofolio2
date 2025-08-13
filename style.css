@@ -1,0 +1,102 @@
+body{
+    background-image: ;
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+   
+    
+}
+
+.box{
+    background: rgb(16, 16, 85);
+    height: 440px;
+    width: 500px;
+    margin: 80px auto;
+    border-radius: 15px;
+    padding: 15px;
+}
+
+h1{
+    color: rgb(255, 255, 255);
+    padding: 10px auto;
+    margin: 100p;
+}
+
+.h1{
+    color: rgb(255, 255, 255);
+}
+
+.h2{
+    color: rgb(255, 255, 255);;
+}
+
+.h3{
+    padding: 15px;
+}
+
+.h4{
+    padding: 15px;
+}
+
+.h5{
+    padding: 15px;
+}
+
+.h6{
+    padding: 15px;
+}
+
+p{
+    color: white;
+    padding: 20px;
+    
+}
+
+header{
+    padding-top: 10px;
+    background: linear-gradient(135deg, rgb(10, 10, 124), rgb(0, 0, 0))
+    
+}
+
+nav{
+    font-size: ;
+    font-weight: 900;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    padding: 12px 0;
+    box-shadow: 0 2px 5px black;
+    z-index: 1000;
+    background-color: rgb(7, 7, 68);
+
+}
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    margin: 0 15px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #58a6ff;
+    font-size: 18px;
+    transition: color 0.3s ease;
+}
+img{
+
+    border-radius: 100px;
+}
+
+section {
+    background-color: #09115c;
+    padding: 2rem;
+    margin-bottom: 2rem;
+    border-radius: 20px;
+    box-shadow: 0 0 10px rgb(7, 7, 68);
+}
